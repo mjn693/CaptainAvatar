@@ -1,0 +1,9 @@
+backports.ssl-match-hostname>=3.4.0.2
+certifi>=14.05.14
+feedparser>=5.1.3
+pycrypto>=2.6.1
+requests>=2.4.1
+six>=1.8.0
+tornado>=4.0.2
+wechatpy>=0.1.1
+wsgiref>=0.1.2
